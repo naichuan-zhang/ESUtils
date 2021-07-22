@@ -1,0 +1,5 @@
+# Project exclude paths
+/src/test/java/com/naichuan/doc/
+/src/test/java/com/naichuan/index/
+/src/test/java/com/naichuan/model/
+/target/
